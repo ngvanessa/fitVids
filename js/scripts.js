@@ -1,0 +1,3 @@
+// Scripts
+
+$('iframe').fitVids();
